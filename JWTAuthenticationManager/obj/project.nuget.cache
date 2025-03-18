@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "NiC4Ocapm03SVOP2Y/kEfQuhKQ7j0RDTK4Ze29dkx+t2+N8fKXks+b69FndyXF7fSTlPcRMnJpWvQ/oNOkwcjg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\JWTAuthenticationManager\\JWTAuthenticationManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\banna.LAPTOP-BO12N2DH\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.32\\microsoft.aspnetcore.authentication.jwtbearer.6.0.32.nupkg.sha512",
+    "C:\\Users\\banna.LAPTOP-BO12N2DH\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\banna.LAPTOP-BO12N2DH\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.1\\microsoft.bcl.timeprovider.8.0.1.nupkg.sha512",
+    "C:\\Users\\banna.LAPTOP-BO12N2DH\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.1.2\\microsoft.identitymodel.abstractions.8.1.2.nupkg.sha512",
+    "C:\\Users\\banna.LAPTOP-BO12N2DH\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.1.2\\microsoft.identitymodel.jsonwebtokens.8.1.2.nupkg.sha512",
+    "C:\\Users\\banna.LAPTOP-BO12N2DH\\.nuget\\packages\\microsoft.identitymodel.logging\\8.1.2\\microsoft.identitymodel.logging.8.1.2.nupkg.sha512",
+    "C:\\Users\\banna.LAPTOP-BO12N2DH\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.35.0\\microsoft.identitymodel.protocols.6.35.0.nupkg.sha512",
+    "C:\\Users\\banna.LAPTOP-BO12N2DH\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.35.0\\microsoft.identitymodel.protocols.openidconnect.6.35.0.nupkg.sha512",
+    "C:\\Users\\banna.LAPTOP-BO12N2DH\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.1.2\\microsoft.identitymodel.tokens.8.1.2.nupkg.sha512",
+    "C:\\Users\\banna.LAPTOP-BO12N2DH\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.1.2\\system.identitymodel.tokens.jwt.8.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

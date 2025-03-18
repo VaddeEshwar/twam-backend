@@ -1,0 +1,12 @@
+D:\Projects\rndtechies\v4\UserManagementService\UserMgmtDAL\bin\Release\net6.0\UserMgmtDAL.deps.json
+D:\Projects\rndtechies\v4\UserManagementService\UserMgmtDAL\bin\Release\net6.0\UserMgmtDAL.dll
+D:\Projects\rndtechies\v4\UserManagementService\UserMgmtDAL\bin\Release\net6.0\UserMgmtDAL.pdb
+D:\Projects\rndtechies\v4\UserManagementService\UserMgmtDAL\obj\Release\net6.0\UserMgmtDAL.csproj.AssemblyReference.cache
+D:\Projects\rndtechies\v4\UserManagementService\UserMgmtDAL\obj\Release\net6.0\UserMgmtDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\rndtechies\v4\UserManagementService\UserMgmtDAL\obj\Release\net6.0\UserMgmtDAL.AssemblyInfoInputs.cache
+D:\Projects\rndtechies\v4\UserManagementService\UserMgmtDAL\obj\Release\net6.0\UserMgmtDAL.AssemblyInfo.cs
+D:\Projects\rndtechies\v4\UserManagementService\UserMgmtDAL\obj\Release\net6.0\UserMgmtDAL.csproj.CoreCompileInputs.cache
+D:\Projects\rndtechies\v4\UserManagementService\UserMgmtDAL\obj\Release\net6.0\UserMgmtDAL.dll
+D:\Projects\rndtechies\v4\UserManagementService\UserMgmtDAL\obj\Release\net6.0\refint\UserMgmtDAL.dll
+D:\Projects\rndtechies\v4\UserManagementService\UserMgmtDAL\obj\Release\net6.0\UserMgmtDAL.pdb
+D:\Projects\rndtechies\v4\UserManagementService\UserMgmtDAL\obj\Release\net6.0\ref\UserMgmtDAL.dll

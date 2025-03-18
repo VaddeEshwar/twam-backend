@@ -1,0 +1,15 @@
+D:\Projects\rndtechies\v4\UserManagementService\JWTAuthenticationManager\obj\Release\net6.0\JWTAuthenticationManager.csproj.AssemblyReference.cache
+D:\Projects\rndtechies\v4\UserManagementService\JWTAuthenticationManager\obj\Release\net6.0\JWTAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\rndtechies\v4\UserManagementService\JWTAuthenticationManager\obj\Release\net6.0\JWTAuthenticationManager.AssemblyInfoInputs.cache
+D:\Projects\rndtechies\v4\UserManagementService\JWTAuthenticationManager\obj\Release\net6.0\JWTAuthenticationManager.AssemblyInfo.cs
+D:\Projects\rndtechies\v4\UserManagementService\JWTAuthenticationManager\obj\Release\net6.0\JWTAuthenticationManager.csproj.CoreCompileInputs.cache
+D:\Projects\rndtechies\v4\UserManagementService\JWTAuthenticationManager\bin\Release\net6.0\JWTAuthenticationManager.deps.json
+D:\Projects\rndtechies\v4\UserManagementService\JWTAuthenticationManager\bin\Release\net6.0\JWTAuthenticationManager.dll
+D:\Projects\rndtechies\v4\UserManagementService\JWTAuthenticationManager\bin\Release\net6.0\JWTAuthenticationManager.pdb
+D:\Projects\rndtechies\v4\UserManagementService\JWTAuthenticationManager\bin\Release\net6.0\UserMgmtDAL.dll
+D:\Projects\rndtechies\v4\UserManagementService\JWTAuthenticationManager\bin\Release\net6.0\UserMgmtDAL.pdb
+D:\Projects\rndtechies\v4\UserManagementService\JWTAuthenticationManager\obj\Release\net6.0\JWTAuthe.6F2921A9.Up2Date
+D:\Projects\rndtechies\v4\UserManagementService\JWTAuthenticationManager\obj\Release\net6.0\JWTAuthenticationManager.dll
+D:\Projects\rndtechies\v4\UserManagementService\JWTAuthenticationManager\obj\Release\net6.0\refint\JWTAuthenticationManager.dll
+D:\Projects\rndtechies\v4\UserManagementService\JWTAuthenticationManager\obj\Release\net6.0\JWTAuthenticationManager.pdb
+D:\Projects\rndtechies\v4\UserManagementService\JWTAuthenticationManager\obj\Release\net6.0\ref\JWTAuthenticationManager.dll

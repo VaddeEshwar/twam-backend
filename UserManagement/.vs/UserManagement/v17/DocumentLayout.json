@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE2516-9EF5-4525-9A06-2F224DD373EA}|UserManagement.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBE2516-9EF5-4525-9A06-2F224DD373EA}|UserManagement.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB9A45-130E-45A4-BF41-EF3E55786834}|..\\UserMgmtDAL\\UserMgmtDAL.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermgmtdal\\helpers\\emilhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE2516-9EF5-4525-9A06-2F224DD373EA}|UserManagement.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermanagement\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBE2516-9EF5-4525-9A06-2F224DD373EA}|UserManagement.csproj|solutionrelative:controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB9A45-130E-45A4-BF41-EF3E55786834}|..\\UserMgmtDAL\\UserMgmtDAL.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermgmtdal\\repositories\\concrete\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB9A45-130E-45A4-BF41-EF3E55786834}|..\\UserMgmtDAL\\UserMgmtDAL.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermgmtdal\\repositories\\concrete\\passwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE2516-9EF5-4525-9A06-2F224DD373EA}|UserManagement.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBE2516-9EF5-4525-9A06-2F224DD373EA}|UserManagement.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB9A45-130E-45A4-BF41-EF3E55786834}|..\\UserMgmtDAL\\UserMgmtDAL.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermgmtdal\\helpers\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB9A45-130E-45A4-BF41-EF3E55786834}|..\\UserMgmtDAL\\UserMgmtDAL.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermgmtdal\\repositories\\concrete\\commonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE2516-9EF5-4525-9A06-2F224DD373EA}|UserManagement.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EBE2516-9EF5-4525-9A06-2F224DD373EA}|UserManagement.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE2516-9EF5-4525-9A06-2F224DD373EA}|UserManagement.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBE2516-9EF5-4525-9A06-2F224DD373EA}|UserManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3C5BF1-E890-4AE0-AB86-F420A04AC287}|..\\JWTAuthenticationManager\\JWTAuthenticationManager.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\jwtauthenticationmanager\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE2516-9EF5-4525-9A06-2F224DD373EA}|UserManagement.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermanagement\\controllers\\useractivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBE2516-9EF5-4525-9A06-2F224DD373EA}|UserManagement.csproj|solutionrelative:controllers\\useractivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE2516-9EF5-4525-9A06-2F224DD373EA}|UserManagement.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermanagement\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBE2516-9EF5-4525-9A06-2F224DD373EA}|UserManagement.csproj|solutionrelative:controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB9A45-130E-45A4-BF41-EF3E55786834}|..\\UserMgmtDAL\\UserMgmtDAL.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermgmtdal\\helpers\\useractivityhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB9A45-130E-45A4-BF41-EF3E55786834}|..\\UserMgmtDAL\\UserMgmtDAL.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermgmtdal\\helpers\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB9A45-130E-45A4-BF41-EF3E55786834}|..\\UserMgmtDAL\\UserMgmtDAL.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermgmtdal\\helpers\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\EnumExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB9A45-130E-45A4-BF41-EF3E55786834}|..\\UserMgmtDAL\\UserMgmtDAL.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermgmtdal\\helpers\\compressdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB9A45-130E-45A4-BF41-EF3E55786834}|..\\UserMgmtDAL\\UserMgmtDAL.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermgmtdal\\helpers\\apptypemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB9A45-130E-45A4-BF41-EF3E55786834}|..\\UserMgmtDAL\\UserMgmtDAL.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermgmtdal\\repositories\\concrete\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB9A45-130E-45A4-BF41-EF3E55786834}|..\\UserMgmtDAL\\UserMgmtDAL.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermgmtdal\\repositories\\concrete\\useractivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3C5BF1-E890-4AE0-AB86-F420A04AC287}|..\\JWTAuthenticationManager\\JWTAuthenticationManager.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\jwtauthenticationmanager\\customejwtauthextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3C5BF1-E890-4AE0-AB86-F420A04AC287}|..\\JWTAuthenticationManager\\JWTAuthenticationManager.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\jwtauthenticationmanager\\itokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB9A45-130E-45A4-BF41-EF3E55786834}|..\\UserMgmtDAL\\UserMgmtDAL.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermgmtdal\\repositories\\abstract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE2516-9EF5-4525-9A06-2F224DD373EA}|UserManagement.csproj|d:\\projects\\rndtechies\\v4\\usermanagementservice\\usermanagement\\usermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EBE2516-9EF5-4525-9A06-2F224DD373EA}|UserManagement.csproj|solutionrelative:usermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAADkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:00:59.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Repositories\\Concrete\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\UserMgmtDAL\\Repositories\\Concrete\\UserRepository.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Repositories\\Concrete\\UserRepository.cs",
+              "RelativeToolTip": "..\\UserMgmtDAL\\Repositories\\Concrete\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:02:55.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqlHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\SqlHelper.cs",
+              "RelativeDocumentMoniker": "..\\UserMgmtDAL\\Helpers\\SqlHelper.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\SqlHelper.cs",
+              "RelativeToolTip": "..\\UserMgmtDAL\\Helpers\\SqlHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:11:19.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Passwordrepository.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Repositories\\Concrete\\Passwordrepository.cs",
+              "RelativeDocumentMoniker": "..\\UserMgmtDAL\\Repositories\\Concrete\\Passwordrepository.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Repositories\\Concrete\\Passwordrepository.cs",
+              "RelativeToolTip": "..\\UserMgmtDAL\\Repositories\\Concrete\\Passwordrepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAFEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:07:41.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\Controllers\\CommonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommonController.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\Controllers\\CommonController.cs",
+              "RelativeToolTip": "Controllers\\CommonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:00:40.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Emilhelper.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\Emilhelper.cs",
+              "RelativeDocumentMoniker": "..\\UserMgmtDAL\\Helpers\\Emilhelper.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\Emilhelper.cs",
+              "RelativeToolTip": "..\\UserMgmtDAL\\Helpers\\Emilhelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:08:03.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommonRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Repositories\\Concrete\\CommonRepository.cs",
+              "RelativeDocumentMoniker": "..\\UserMgmtDAL\\Repositories\\Concrete\\CommonRepository.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Repositories\\Concrete\\CommonRepository.cs",
+              "RelativeToolTip": "..\\UserMgmtDAL\\Repositories\\Concrete\\CommonRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:45:01.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T11:17:15.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAEMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:42:44.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAF8AAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:08:28.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tokenhandler.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\JWTAuthenticationManager\\Tokenhandler.cs",
+              "RelativeDocumentMoniker": "..\\JWTAuthenticationManager\\Tokenhandler.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\JWTAuthenticationManager\\Tokenhandler.cs",
+              "RelativeToolTip": "..\\JWTAuthenticationManager\\Tokenhandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:00:15.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PasswordController.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\Controllers\\PasswordController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PasswordController.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\Controllers\\PasswordController.cs",
+              "RelativeToolTip": "Controllers\\PasswordController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAD4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:51:02.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UseractivityController.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\Controllers\\UseractivityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UseractivityController.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\Controllers\\UseractivityController.cs",
+              "RelativeToolTip": "Controllers\\UseractivityController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:30:37.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TokenOptions.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\TokenOptions.cs",
+              "RelativeDocumentMoniker": "..\\UserMgmtDAL\\Helpers\\TokenOptions.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\TokenOptions.cs",
+              "RelativeToolTip": "..\\UserMgmtDAL\\Helpers\\TokenOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:08:04.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\TokenService.cs",
+              "RelativeDocumentMoniker": "..\\UserMgmtDAL\\Helpers\\TokenService.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\TokenService.cs",
+              "RelativeToolTip": "..\\UserMgmtDAL\\Helpers\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:08:05.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Useractivityhistory.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\Useractivityhistory.cs",
+              "RelativeDocumentMoniker": "..\\UserMgmtDAL\\Helpers\\Useractivityhistory.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\Useractivityhistory.cs",
+              "RelativeToolTip": "..\\UserMgmtDAL\\Helpers\\Useractivityhistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:08:05.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EnumExtensions.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\EnumExtensions.cs",
+              "RelativeDocumentMoniker": "..\\UserMgmtDAL\\Helpers\\EnumExtensions.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\EnumExtensions.cs",
+              "RelativeToolTip": "..\\UserMgmtDAL\\Helpers\\EnumExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:08:04.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CompressData.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\CompressData.cs",
+              "RelativeDocumentMoniker": "..\\UserMgmtDAL\\Helpers\\CompressData.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\CompressData.cs",
+              "RelativeToolTip": "..\\UserMgmtDAL\\Helpers\\CompressData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:08:03.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppTypeMiddleware.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\AppTypeMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\UserMgmtDAL\\Helpers\\AppTypeMiddleware.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Helpers\\AppTypeMiddleware.cs",
+              "RelativeToolTip": "..\\UserMgmtDAL\\Helpers\\AppTypeMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:08:03.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RefreshTokenRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Repositories\\Concrete\\RefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "..\\UserMgmtDAL\\Repositories\\Concrete\\RefreshTokenRepository.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Repositories\\Concrete\\RefreshTokenRepository.cs",
+              "RelativeToolTip": "..\\UserMgmtDAL\\Repositories\\Concrete\\RefreshTokenRepository.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:07:49.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Useractivityrepository.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Repositories\\Concrete\\Useractivityrepository.cs",
+              "RelativeDocumentMoniker": "..\\UserMgmtDAL\\Repositories\\Concrete\\Useractivityrepository.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Repositories\\Concrete\\Useractivityrepository.cs",
+              "RelativeToolTip": "..\\UserMgmtDAL\\Repositories\\Concrete\\Useractivityrepository.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:07:31.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITokenhandler.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\JWTAuthenticationManager\\ITokenhandler.cs",
+              "RelativeDocumentMoniker": "..\\JWTAuthenticationManager\\ITokenhandler.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\JWTAuthenticationManager\\ITokenhandler.cs",
+              "RelativeToolTip": "..\\JWTAuthenticationManager\\ITokenhandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:58:40.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomeJWTAuthExtension.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\JWTAuthenticationManager\\CustomeJWTAuthExtension.cs",
+              "RelativeDocumentMoniker": "..\\JWTAuthenticationManager\\CustomeJWTAuthExtension.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\JWTAuthenticationManager\\CustomeJWTAuthExtension.cs",
+              "RelativeToolTip": "..\\JWTAuthenticationManager\\CustomeJWTAuthExtension.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:58:23.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Repositories\\Abstract\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\UserMgmtDAL\\Repositories\\Abstract\\IUserRepository.cs",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserMgmtDAL\\Repositories\\Abstract\\IUserRepository.cs",
+              "RelativeToolTip": "..\\UserMgmtDAL\\Repositories\\Abstract\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:04:55.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserManagement.csproj",
+              "DocumentMoniker": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\UserManagement.csproj",
+              "RelativeDocumentMoniker": "UserManagement.csproj",
+              "ToolTip": "D:\\Projects\\rndtechies\\v4\\UserManagementService\\UserManagement\\UserManagement.csproj",
+              "RelativeToolTip": "UserManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T16:22:57.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
